@@ -1,18 +1,18 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
-comments: true
+description: 电影改变生活
+keywords: Netflix, 电影，Netflix推荐
+comments: false
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+这里是，爱看网飞。
 
-仰慕「优雅编码的艺术」。
+电影「人生的另一种可能」。
 
-坚信熟能生巧，努力改变人生。
+相信一部好的影片，可以改变生活轨迹。
 
 ## 联系
 
@@ -33,9 +33,9 @@ permalink: /about/
 
 {% for skill in site.data.skills %}
 ### {{ skill.name }}
-<div class="btn-inline">
-{% for keyword in skill.keywords %}
-<button class="btn btn-outline" type="button">{{ keyword }}</button>
-{% endfor %}
-</div>
-{% endfor %}
+# <div class="btn-inline">
+# {% for keyword in skill.keywords %}
+# <button class="btn btn-outline" type="button">{{ keyword }}</button>
+# {% endfor %}
+#</div>
+# {% endfor %}
