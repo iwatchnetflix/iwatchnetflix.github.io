@@ -31,7 +31,7 @@ permalink: /about/
 
 ## Skill Keywords
 
-{% for skill in site.data.skills %}
+# {% for skill in site.data.skills %}
 ### {{ skill.name }}
 # <div class="btn-inline">
 # {% for keyword in skill.keywords %}
