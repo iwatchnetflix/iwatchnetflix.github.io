@@ -51,12 +51,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Sara
+author: Lara
 organization: 
 organization_url: 
 github_username: iwatchnetflix
 location: Shenzhen, China
-email: xiaoty89757@gmail.com
+email: 
 
 # ---------------- #
 #    Navigation    #
@@ -79,8 +79,8 @@ navs:
 #     label: 开源
 
   -
-    href: /wiki/
-    label: 维基
+#    href: /wiki/
+#    label: 维基
 
   -
     href: /links/
