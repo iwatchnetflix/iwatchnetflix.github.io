@@ -140,10 +140,10 @@ gitment:
         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
+    owner: iwatchnetflix
     repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    clientID: c85a58462772df4d73ac
+    clientSecret: 228bc7b7a2befa339fde874fe05c14fca3a13e7a
 # https://utteranc.es/
 utterances:
     repo: mzlogin/blog-comments
