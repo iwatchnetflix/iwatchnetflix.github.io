@@ -146,7 +146,7 @@ gitalk:
     clientSecret: 228bc7b7a2befa339fde874fe05c14fca3a13e7a
 # https://utteranc.es/
 utterances:
-    repo: mzlogin/blog-comments
+    repo: iwatchnetflix/blog-comments
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
@@ -155,7 +155,7 @@ lazy_load_disqus : false
 # ---------------- #
 simple_jekyll_search:
     # 是否支持全文搜索
-    fulltext: false
+    fulltext: true
     # 最多显示多少条搜索结果
     limit: 10
 
