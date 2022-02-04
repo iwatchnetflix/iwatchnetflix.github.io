@@ -44,6 +44,8 @@ keywords: Netflix推荐电影电视剧, 爱看网飞，Netflix片单推荐
 
 ### 《金鱼妻》
 
+英文片名：Fishbowl Wives
+
 影片上映日期：2月14日
 
 ### 《德州电锯杀人狂》
