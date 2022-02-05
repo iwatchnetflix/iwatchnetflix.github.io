@@ -12,6 +12,8 @@ keywords: Netflix推荐电影电视剧, 爱看网飞，Netflix片单推荐
 
 影片上映日期：2月2日
 
+![](/images/blog/dark-desire-season-2-what-to-expect-netflix.png)
+
 ### 《重塑》第一季
 
 英文片名：Finding Ola Season 1
@@ -55,6 +57,8 @@ keywords: Netflix推荐电影电视剧, 爱看网飞，Netflix片单推荐
 影片上映日期：2月18日
 
 ### 《解禁男女》 
+
+英文片名：Love and Leashes
 
 影片上映日期：2月11日
 
