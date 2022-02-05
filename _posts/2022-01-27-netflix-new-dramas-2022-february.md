@@ -12,17 +12,23 @@ keywords: Netflix推荐电影电视剧, 爱看网飞，Netflix片单推荐
 
 影片上映日期：2月2日
 
+![](/images/blog/dark-desire-season-2-what-to-expect-netflix.png)
+
 ### 《重塑》第一季
 
 英文片名：Finding Ola Season 1
 
 影片上映日期：2月3日
 
+![](/images/blog/finding-ola-netflix-stagione-1-netflix.png)
+
 ### 《谋杀小镇》
 
 英文片名：Murderville
 
 影片上映日期：2月3日
+
+![](/images/blog/netflix-Murderville.png)
 
 ### 《隔窗恋爱》
 
