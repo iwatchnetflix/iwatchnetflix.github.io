@@ -62,6 +62,8 @@ keywords: Netflix推荐电影电视剧, 爱看网飞，Netflix片单推荐
 
 ### 《解禁男女》 
 
+英文片名：Love and Leashes
+
 影片上映日期：2月11日
 
 ### 《维京传奇：英灵神殿》第一季
