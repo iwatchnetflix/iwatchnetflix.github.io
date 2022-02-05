@@ -5,6 +5,7 @@ categories: [Netflix网飞推荐电影电视剧]
 description: Netflix网飞推荐电影电视剧，分享Netflix网飞最新片单。想看Netflix最新的影视资讯及电影电视剧片单，请关注爱看网飞Netflix。
 keywords: Netflix推荐电影电视剧, 爱看网飞，Netflix片单推荐
 ---
+今天和大家分享Neflix奈飞2月电影及电视剧片单推荐，2022年开年就有很多热门电影和电视剧，包括Netflix日剧《金鱼妻》，Netflix墨西哥剧《黑暗的欲望》以及Netflix美剧《虚构安娜》等等。
 
 ### 《黑暗的欲望》第二季
 
