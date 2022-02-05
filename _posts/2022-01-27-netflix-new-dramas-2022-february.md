@@ -12,7 +12,7 @@ keywords: Netflix推荐电影电视剧, 爱看网飞，Netflix片单推荐
 
 影片上映日期：2月2日
 
-![](/images/blog/dark-desire-season-2-what-to-expect-netflix.png)
+![](/images/blog/dark-desire-season-2-what-to-expect-netflix.jpg)
 
 ### 《重塑》第一季
 
