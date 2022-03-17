@@ -8,7 +8,7 @@ title: 爱看网飞
 subtitle: "Netflix网飞精彩内容都在这里"
 description: "Netflix网飞最新资讯分享，想看Netflix最新片单及电影、电视剧推荐，请关注爱看网飞"
 keywords: Netflix最新推荐, 网飞
-timezone: Asia/Shanghai
+timezone: Asia/Shenzhen
 encoding: "utf-8"
 repository: iwatchnetflix/iwatchnetflix.github.io
 # 对 css 和 js 资源的 cdn 加速配置
@@ -24,7 +24,7 @@ components:
         hide-platforms: qq,facebook
     # 不蒜子访问统计
     busuanzi:
-        enabled: false
+        enabled: true
         start_date: 2020-05-03
     # My Popular Repositories
    # side_bar_repo:
